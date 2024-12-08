@@ -36,7 +36,7 @@ A full-stack clone of Twitter (now known as X) built using the **MERN stack**. T
 
 ## 🧪 Demo Credentials
 
-- **Email:** kinarsardhara@gmail.com
+- **Email:** kinarsardhara
 - **Password:** kinar@123
 
 ## 🌐 Live Demo
@@ -44,5 +44,6 @@ Check out the live application here:
 [X-twitter](https://pro-twitter-x.netlify.app/)
 
 ## 🖼️ Demo
+
 ![X-twitter Demo](https://res.cloudinary.com/dnhf2dbis/image/upload/v1733649894/Screenshot_2024-12-09_145239_wvhxl8.png)
 ![X-twitter Demo](https://res.cloudinary.com/dnhf2dbis/image/upload/v1733635902/Screenshot_2024-12-09_105909_roln5g.png)
